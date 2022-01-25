@@ -1,6 +1,6 @@
 ## Screenshots
 
-<img src="https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss2.jpg" width="300" height="600">
+<img src="https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss2.jpg" width="60%" height="60%">
 ![App ScreenShots](https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss2.jpg=250x250)
 ![App ScreenShots](https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss3.jpg=250x250)
 ![App ScreenShots](https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss4.jpg)
