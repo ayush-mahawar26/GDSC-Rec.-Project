@@ -1,10 +1,15 @@
+
 ## Screenshots
 
-<img src="https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss2.jpg" width="60%" height="60%">
-![App ScreenShots](https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss2.jpg=250x250)
-![App ScreenShots](https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss3.jpg=250x250)
-![App ScreenShots](https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss4.jpg)
-![App ScreenShots](https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss5.jpg)
-![App ScreenShots](https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss6.jpg)
-![App ScreenShots](https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss7.jpg)
-![App ScreenShots](https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss8.jpg)
+
+<div>
+    <img src="https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss1.jpg" width="250px"</img> 
+    <img src="https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss2.jpg" width="250px"</img> 
+    <img src="https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss3.jpg" width="250px"</img> 
+    <img src="https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss4.jpg" width="250px"</img> 
+    <img src="https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss5.jpg" width="250px"</img> 
+    <img src="https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss6.jpg.jpg" width="250px"</img> 
+    <img src="https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss7.jpg" width="250px"</img> 
+    <img src="https://github.com/ayush-mahawar26/GDSC-Rec.-Project/blob/master/ScreenShots/ss8.jpg" width="250px"</img> 
+
+</div>
