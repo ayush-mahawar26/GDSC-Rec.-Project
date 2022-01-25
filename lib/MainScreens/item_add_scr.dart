@@ -19,7 +19,7 @@ class _AddItemScrState extends State<AddItemScr> {
   @override
   Widget build(BuildContext context) {
     var now = DateTime.now();
-    var formatter = DateFormat("yyyy-mm-dd");
+    var formatter = DateFormat("yyyy-MM-dd");
     String formattedDate = formatter.format(now);
     String time = DateFormat.Hm().format(now);
     var mq = MediaQuery.of(context).size;
